@@ -1,0 +1,11 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+A1,RP2040-Zero,RP2040-Zero,129.0,-42.0,0.0,top
+F1,Fuse,Fuse_0805_2012Metric,42.6,-76.4375,-90.0,top
+Re1,Resistor 1,R_0603_1608Metric,58.68,-88.45,180.0,top
+Re2,Resistor 2,R_0603_1608Metric,58.6075,-85.76,180.0,top
+SW13,SW_Push,SW_PUSH_6mm_H5mm,58.75,-39.75,90.0,top
+SW14,SW_Push,SW_PUSH_6mm_H5mm,69.25,-39.75,90.0,top
+SW15,SW_Push,SW_PUSH_6mm_H5mm,79.75,-39.75,90.0,top
+SW26,SW_Push,SW_PUSH_6mm_H5mm,90.25,-39.75,90.0,top
+SW27,SW_Push,SW_PUSH_6mm_H5mm,100.75,-39.75,90.0,top
+SW28,SW_Push,SW_PUSH_6mm_H5mm,111.25,-39.75,90.0,top

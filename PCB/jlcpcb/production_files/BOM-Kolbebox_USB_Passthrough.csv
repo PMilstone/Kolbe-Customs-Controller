@@ -1,0 +1,11 @@
+Comment,Designator,Footprint,LCSC
+SW_Push,SW26,SW_PUSH_6mm_H5mm,
+SW_Push,SW14,SW_PUSH_6mm_H5mm,
+SW_Push,SW27,SW_PUSH_6mm_H5mm,
+SW_Push,SW13,SW_PUSH_6mm_H5mm,
+SW_Push,SW15,SW_PUSH_6mm_H5mm,
+SW_Push,SW28,SW_PUSH_6mm_H5mm,
+RP2040-Zero,A1,RP2040-Zero,
+Fuse,F1,Fuse_0805_2012Metric,
+Resistor 2,Re2,R_0603_1608Metric,
+Resistor 1,Re1,R_0603_1608Metric,
